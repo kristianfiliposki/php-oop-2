@@ -6,3 +6,5 @@
         public $materiale;
         public $size;
     }
+
+    

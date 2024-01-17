@@ -21,6 +21,7 @@
                     <h1> prodotto </h1>
                     <?php echo $prodotto->name ?>
                     <br>
+                    
                     <br>
                     <br>
                     <?php echo $prodotto->Getprodotto() ?>

@@ -3,7 +3,11 @@
     require_once __DIR__ '/prodotti.php';
 
     class Gioco extends Prodotto {
-        public $eta;
+        public $size;
+        public $color;
+        public $materials;
+        public $age;
+
     }
 
 
